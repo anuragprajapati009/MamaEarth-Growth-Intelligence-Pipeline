@@ -1,0 +1,28 @@
+Situation
+
+The raw total revenue was 99860.20 INR.
+After reconciliation, the cleaned total revenue was
+97358.30 INR. The reconciliation delta was
+2501.90 INR. The true peak month was 2026-03,
+with revenue of 20318.90 INR.
+
+
+Complication
+
+The 2026-01 revenue initially appeared to be
+29582.10 INR, but the corrected revenue was
+11637.10 INR after accounting for the identified
+outliers. Payment-method analysis also showed a COD return rate
+of 44.4%. The highest-risk segment was
+COD with Tier-2 cities, where the return
+rate was 54.5%.
+
+
+Resolution
+
+Use the cleaned revenue of 97358.30 INR as the
+verified revenue baseline. Focus operational attention on the
+COD and Tier-2 segment with its
+54.5% return rate, and use the outlier-corrected
+monthly figures when evaluating performance. The true peak
+month remains 2026-03, with revenue of 20318.90 INR.
